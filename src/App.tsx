@@ -4,12 +4,11 @@ import FormContent from './components/FormContent';
 import TotalTaskButton from './components/TotalCreatedTaskButton';
 import TotalFinishedTask from './components/TotalFinishedTaskButton';
 import EmptyBox from './components/EmptyBox';
-  import { ChangeEvent, ChangeEventHandler, FormEvent, MouseEventHandler, useState } from 'react';
+  import { ChangeEvent, FormEvent, useState } from 'react';
 import TaskInterface from './interface/taskInterface';
 import Task from './components/Task';
 import toast from 'react-hot-toast/headless';
-import { Toaster } from 'react-hot-toast';
- 
+  
 
 
 
