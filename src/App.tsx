@@ -1,4 +1,4 @@
-import style from './global.module.css';
+import style from './Global.module.css';
 import Header from './components/Header';
 import FormContent from './components/FormContent';
 import TotalTaskButton from './components/TotalCreatedTaskButton';
